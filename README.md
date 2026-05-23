@@ -22,7 +22,6 @@ The official landing page for **Attaya Kos** housing business. This website is b
 To make content updates or test design modifications locally within your WSL environment before deploying them to GitHub:
 
 1. Navigate to the project directory in your WSL terminal:
-```bash
    cd ~/projects/personal/attaya-kos
 2. Run a local development server:
     Using VS Code Live Server Extension: Open index.html and click the "Go Live" button in the bottom status bar.
